@@ -1,2 +1,2 @@
-# Homework
-Branches represent the different exercises.
+# IntNode
+IntNode exercise.
